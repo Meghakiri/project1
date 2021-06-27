@@ -1,4 +1,4 @@
-<h1>Hello Everyone</h1>
-<h2>Hii....</h2>
+<h1>Configuration done</h1>
+<h2>Thank You<h2>
 
 
